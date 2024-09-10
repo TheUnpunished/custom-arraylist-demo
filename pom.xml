@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.yakovlev</groupId>
-    <artifactId>custom-arrraylist-demo</artifactId>
+    <artifactId>custom-arraylist-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,7 +13,7 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <build>
-    <finalName>custom-arrraylist-demo</finalName>
+    <finalName>custom-arraylist-demo</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
